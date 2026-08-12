@@ -246,5 +246,4 @@ Content © Duarte Martins. All rights reserved.
 
 - **Newsletter**: [interessant3.substack.com](https://interessant3.substack.com)
 - **GitHub**: [@duartemartins](https://github.com/duartemartins)
-- **Twitter/X**: [@duarteosrm](https://twitter.com/duarteosrm)
 - **Side Project**: [PopaDex](https://popadex.com) - Personal finance tracker
