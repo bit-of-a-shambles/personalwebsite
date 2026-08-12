@@ -19,7 +19,7 @@ You can also find me elsewhere — feel free to get in touch:
 
 - I manage subscriptions using [Substack](https://interessant3.substack.com).  
 - My code lives on [GitHub](https://github.com/duartemartins).  
-- I post thoughts on [Twitter](https://www.twitter.com/duarteosrm) and [VoxPopli](https://voxpopli.com/).  
+- I post thoughts on [VoxPopli](https://voxpopli.com/).  
 - Some of this blog is also mirrored on [Medium](https://medium.com/@duartem), although I use this less now.  
 
 By day, I work in tech. In my spare time, I’m building [PopaDex](https://popadex.com) - a personal finance tracker.  

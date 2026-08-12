@@ -49,7 +49,7 @@ Charts are built using pure CSS/HTML (or SVG for complex lines) to ensure lightw
 - **Branding**:
     - Every chart must include a footer with:
         - **Left**: Source data citation.
-        - **Right**: "Duarte Martins" and "@duarteosrm".
+        - **Right**: "Duarte Martins".
 
 ### 2. Line Charts ("Capital Divergence")
 - **Structure**: SVG-based for smooth curves.
@@ -64,7 +64,7 @@ Charts are built using pure CSS/HTML (or SVG for complex lines) to ensure lightw
 ## Interactive Elements
 - **Share Functionality**:
     - Located in the Sidebar or Footer.
-    - **Twitter/X**: Opens a pre-filled tweet with Title + URL + "@duarteosrm".
+    - **Twitter/X**: Opens a pre-filled tweet with Title + URL.
     - **Copy Link**: Copies URL to clipboard and provides "Copied!" feedback state.
 - **Reading Progress**: A subtle progress bar or "Read Time" indicator in the top metadata bar.
 

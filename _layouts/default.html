@@ -58,7 +58,6 @@
 
             <div style="margin-top: 2rem; display: flex; gap: 1.5rem; justify-content: center;">
                 <a href="mailto:{{ site.email | replace: '(at)', '@' }}" class="mobile-nav-link" style="font-size: 1.5rem;">{{ t.email }}</a>
-                <a href="https://twitter.com/{{ site.twitter_username }}" class="mobile-nav-link" style="font-size: 1.5rem;">{{ t.twitter }}</a>
             </div>
         </nav>
     </div>
@@ -92,7 +91,7 @@
                     e.preventDefault();
                     const text = encodeURIComponent(document.title);
                     const url = encodeURIComponent(window.location.href);
-                    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}&via={{ site.twitter_username }}`, '_blank');
+                    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, '_blank');
                 });
             }
 

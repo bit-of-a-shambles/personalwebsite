@@ -20,7 +20,6 @@ Também me pode encontrar noutros sítios - sinta-se à vontade para entrar em c
 
 - Partilho três coisas interessantes semanalmente no [Substack](https://interessant3.substack.com).
 - O meu código vive no [GitHub](https://github.com/duartemartins).
-- Publico pensamentos no [Twitter](https://www.twitter.com/duarteosrm).
 - Este blog também é "espelhado" no [Medium](https://medium.com/@duartem).
 
 Durante o dia, trabalho em tecnologia. Nos tempos livres, estou a construir o [PopaDex](https://popadex.com) – um gestor de finanças pessoais.
