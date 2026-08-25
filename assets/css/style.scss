@@ -228,6 +228,19 @@ body {
     color: var(--ink-light);
 }
 
+.article-body .calculation {
+    margin: 2rem 0;
+    padding: 1rem 1.25rem;
+    border-left: 4px solid var(--accent);
+    background: var(--sidebar-bg);
+    color: var(--ink);
+    font-family: 'SF Mono', 'Menlo', 'Monaco', 'Courier New', monospace;
+    font-size: 1rem;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+}
+
 .pull-quote {
     margin: 4rem -4rem;
     padding: 2rem 4rem;
@@ -638,9 +651,14 @@ body {
     .lead-headline { font-size: 2.5rem; }
     .grid-headline { font-size: 1.5rem; }
     
-    .article-body p:first-of-type::first-letter {
+    .article-body > p:first-of-type::first-letter {
         font-size: 4rem;
         margin-top: 0.2rem;
+    }
+
+    .article-body .calculation {
+        padding: 0.875rem 1rem;
+        font-size: 0.9rem;
     }
 }
 

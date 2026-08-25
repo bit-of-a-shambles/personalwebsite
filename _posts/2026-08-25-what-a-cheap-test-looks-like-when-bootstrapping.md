@@ -25,7 +25,7 @@ But what counts as "cheap"? A test can cost almost nothing in cash and still was
 
 First, estimate the value of the project. Say you think it has a 5% chance of producing $100,000:
 
-> `5% × $100,000 = $5,000`
+<div class="calculation">5% × $100,000 = $5,000</div>
 
 That is a rough estimate, not a valuation. Its purpose is to give you something to update as you learn.
 
@@ -41,7 +41,7 @@ The estimate will be imperfect. That is fine. Treating your free time as worthle
 
 Suppose a test takes ten hours and costs another $500 for ads, data or a prototype. At a personal reservation rate of $50 an hour, its real cost is:
 
-> `$500 cash + (10 hours × $50) = $1,000`
+<div class="calculation">$500 cash + (10 hours × $50) = $1,000</div>
 
 Now suppose fully pursuing the project would require another $5,000, and a successful outcome would be worth $100,000.
 
@@ -49,15 +49,15 @@ Before the test, you believe the chance of success is 5%. The project's expected
 
 The test could change the decision. You estimate an 80% chance of a weak result, which would reduce the probability of success to about 1%. You would stop. There is also a 20% chance of a strong result, which would raise it to 20%. In that case:
 
-> `20% × $100,000 = $20,000 expected gross value`
+<div class="calculation">20% × $100,000 = $20,000 expected gross value</div>
 
 After subtracting the $5,000 needed to pursue the project, the strong result is worth $15,000. Because you expect that result 20% of the time:
 
-> `20% × $15,000 = $3,000`
+<div class="calculation">20% × $15,000 = $3,000</div>
 
 Finally, subtract the $1,000 cost of the test:
 
-> `$3,000 - $1,000 = $2,000 expected value`
+<div class="calculation">$3,000 - $1,000 = $2,000 expected value</div>
 
 The test does not magically create $2,000 in profit. Its value comes from the decision it enables: abandon the idea when the evidence is weak, and make the larger bet only when the evidence improves.
 
