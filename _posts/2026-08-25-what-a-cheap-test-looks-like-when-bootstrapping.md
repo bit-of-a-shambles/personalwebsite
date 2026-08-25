@@ -65,8 +65,8 @@ The test does not magically create $2,000 in profit. Its value comes from the de
 
 This is Rob Walling's [2/20/200 validation framework](https://www.startupsfortherestofus.com/episodes/episode-706-2-20-200-validation-prior-art-and-designing-by-committee-a-rob-solo-adventure), which he explains in episode 706 of *Startups for the Rest of Us*. It follows a simple progression:
 
-- Spend 2 hours to decide whether another 20 are worthwhile.
-- Spend 20 hours to decide whether another 200 are worthwhile.
-- Spend 200 hours to decide whether to commit seriously.
+- 2 hours: Research the problem, market, competitors and existing demand online.
+- 20 hours: Interview potential customers and test a landing page through outreach or ads.
+- 200 hours: Build the smallest usable MVP and see whether people use it or pay.
 
 At each stage, ask whether the next step is worth the information it can give you. A cheap test has a capped downside and a decision attached to it. If the result will not change what you do next, the information is not worth paying for.
