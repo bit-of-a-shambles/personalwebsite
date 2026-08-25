@@ -63,7 +63,7 @@ The test does not magically create $2,000 in profit. Its value comes from the de
 
 ## The 2/20/200 rule
 
-This is the logic behind a simple progression:
+This is Rob Walling's [2/20/200 validation framework](https://www.startupsfortherestofus.com/episodes/episode-706-2-20-200-validation-prior-art-and-designing-by-committee-a-rob-solo-adventure), which he explains in episode 706 of *Startups for the Rest of Us*. It follows a simple progression:
 
 - Spend 2 hours to decide whether another 20 are worthwhile.
 - Spend 20 hours to decide whether another 200 are worthwhile.
