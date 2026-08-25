@@ -29,15 +29,17 @@ First, estimate the value of the project. Say you think it has a 5% chance of pr
 
 That is a rough estimate, not a valuation. Its purpose is to give you something to update as you learn.
 
-Second, put a price on your time. If your main job pays $100,000 a year, dividing that by roughly 2,000 working hours gives you an hourly rate of $50. Ten hours spent on a side project therefore costs about $500 in time.
+Second, value what you would give up. If you work on a side project outside business hours, your salary is not the right benchmark. You cannot necessarily exchange those evening or weekend hours for more salary.
 
-The same applies if you already run a micro-SaaS making $5,000 a month. If ten hours spent improving it would normally protect or add around $500 of value, then a ten-hour experiment elsewhere has a $500 opportunity cost.
+The real alternative might be training that advances your career, meeting people in your industry, improving a micro-SaaS that already makes $5,000 a month, or simply exercising, resting and spending time with people you care about.
 
-These estimates will be imperfect. That is fine. Treating your time as free is much less accurate.
+Most of those do not have a neat dollar price. One workaround is to set a personal reservation rate: the minimum value an hour on a new project must offer before you are willing to give up that time. If you set it at $50, a ten-hour experiment costs you $500 of scarce free time.
+
+The estimate will be imperfect. That is fine. Treating your free time as worthless is much less accurate.
 
 ## Price the next test
 
-Suppose a test takes ten hours and costs another $500 for ads, data or a prototype. At an hourly rate of $50, its real cost is:
+Suppose a test takes ten hours and costs another $500 for ads, data or a prototype. At a personal reservation rate of $50 an hour, its real cost is:
 
 > `$500 cash + (10 hours × $50) = $1,000`
 
