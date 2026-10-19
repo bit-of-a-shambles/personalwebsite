@@ -67,7 +67,7 @@ Here are 5 books often recommended in the micro-SaaS and indie hacking community
 
 ## YouTube Videos
 
-Here are 5 YouTube videos that provide valuable insights for micro-SaaS entrepreneurs:
+Here are some YouTube videos that provide valuable insights for micro-SaaS entrepreneurs:
 
 1. ["No More Huge Bets. Do This Instead"](https://www.youtube.com/watch?v=H1R_Wn9RZzA) by Daniel Vassallo
 2. ["How To Start a SaaS"](https://www.youtube.com/watch?v=i3d1asTrWUQ) by Tyler Tringas
@@ -76,6 +76,7 @@ Here are 5 YouTube videos that provide valuable insights for micro-SaaS entrepre
 5. ["Turning side projects into profitable startups"](https://levels.io/startups/) by Pieter Levels
 6. ["YC Startup School"](https://www.startupschool.org)
 7. ["David Heinemeier Hansson at Startup School 08"](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
+8. ["$1M Startup Ideas: 3 Frameworks"](https://www.youtube.com/watch?v=VhrGQl_oqQs) by Napkin Math
 
 ## Podcasts
 
